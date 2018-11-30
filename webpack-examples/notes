@@ -1,0 +1,17 @@
+Why Webpack:
+- In single page applications, there is a huge amount of Javascript code shipped on to users browser
+- Javascript files are more organized by splitting them into sperate modules
+
+
+- Webpack takes the big collection of tiny small javascript modules and merge them into one big 
+javascript module ( bundle.js) & ensuring that each module is executed in the correct order.
+  - It solved Load order
+
+Popular Javascript Module Systems
+a) CommonJS - This is implemeted by NodeJS
+b) AMD ( Asyncronous Module Defination) - Used by Frontend systems
+c) ES2015 ( i.e. also known as ES6) - latest
+
+Module Systems are rulesets decides how to link files inside the application
+
+  

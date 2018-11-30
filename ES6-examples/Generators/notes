@@ -1,2 +1,7 @@
 Generator is a function that can be entered and exited multiple times.
 i.e it enters a function returns a value then it goes again to the same place where it has left.
+
+Generator Functions will automatically suspend & resume their execution and stata around the last
+point of value generation.
+The Advantage is instead of having to compute an entire series of values up front, the generator 
+computes one value waits for the next value is called for.

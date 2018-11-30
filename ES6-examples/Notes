@@ -1,0 +1,7 @@
+Babel is javascript compiler which transpiles the ES6/ES2015 code to browser compatible ES5 code.
+
+ECMASCRIPT is a standard
+Javascript is Implementation of ECMSScript.
+
+const variable cannot be changed
+let variable can change its value over period of time

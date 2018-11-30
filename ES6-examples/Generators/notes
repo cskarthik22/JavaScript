@@ -1,0 +1,2 @@
+Generator is a function that can be entered and exited multiple times.
+i.e it enters a function returns a value then it goes again to the same place where it has left.
